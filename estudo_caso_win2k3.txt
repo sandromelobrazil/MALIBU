@@ -1,0 +1,6 @@
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha256,filename
+## Invoked from: /home/ninjadev/estudos_python/MALIBU
+## $ hashdeep estudo_caso_win2k3.pcap
+## 
+11364454,aa1c0009ee18c75b7b7a606331f36038,37d7b6b5d6b0d2eee56c04957c7b044c0840479b3347110155cb777c5860f425,/home/ninjadev/estudos_python/MALIBU/estudo_caso_win2k3.pcap
